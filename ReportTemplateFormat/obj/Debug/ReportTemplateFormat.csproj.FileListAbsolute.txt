@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\ReportTemplateFormat\ReportTemplateFormat\bin\Debug\ReportTemplateFormat.exe.config
+C:\Users\user\Desktop\ReportTemplateFormat\ReportTemplateFormat\bin\Debug\ReportTemplateFormat.exe
+C:\Users\user\Desktop\ReportTemplateFormat\ReportTemplateFormat\bin\Debug\ReportTemplateFormat.pdb
+C:\Users\user\Desktop\ReportTemplateFormat\ReportTemplateFormat\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\user\Desktop\ReportTemplateFormat\ReportTemplateFormat\obj\Debug\ReportTemplateFormat.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ReportTemplateFormat\ReportTemplateFormat\obj\Debug\ReportTemplateFormat.Properties.Resources.resources
+C:\Users\user\Desktop\ReportTemplateFormat\ReportTemplateFormat\obj\Debug\ReportTemplateFormat.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ReportTemplateFormat\ReportTemplateFormat\obj\Debug\ReportTemplateFormat.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ReportTemplateFormat\ReportTemplateFormat\obj\Debug\ReportTemplateFormat.csproj.CopyComplete
+C:\Users\user\Desktop\ReportTemplateFormat\ReportTemplateFormat\obj\Debug\ReportTemplateFormat.exe
+C:\Users\user\Desktop\ReportTemplateFormat\ReportTemplateFormat\obj\Debug\ReportTemplateFormat.pdb
+C:\Users\user\Desktop\ReportTemplateFormat\ReportTemplateFormat\obj\Debug\ReportTemplateFormat.MainForm.resources
+C:\Users\user\Desktop\ReportTemplateFormat\ReportTemplateFormat\obj\Debug\ReportTemplateFormat.ChildForms.FormReport1.resources
